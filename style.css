@@ -1,0 +1,156 @@
+body{
+    text-align:center;
+}
+
+.my_nav_bar{
+    position:sticky;
+    top:0;
+    z-index:99999;
+}
+
+.menu{
+    position:fixed;
+    top:0px;
+    margin-top:0px;
+    z-index:10;
+    cursor:pointer;
+    width:100%;
+    margin-top:10px;
+}
+
+.links{
+    font-size:20px;
+    font-family:fantasy;       
+    padding-right:25px;
+    padding-left:33px;
+    display:inline;
+    width:100%;
+    height:800px;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#home{
+    background:lightsalmon;
+    font-family: 'Comic Neue', cursive;
+}
+
+#teams6{
+    background:lightgoldenrodyellow;
+    font-family: 'Comic Neue', cursive;
+}
+
+#teams7{
+    background:lightgoldenrodyellow;
+    font-family: 'Comic Neue', cursive;
+}
+
+#teams8{
+    background:lightgoldenrodyellow;
+    font-family: 'Comic Neue', cursive;
+}
+
+
+#arts{
+    background:lightgreen;
+    font-family: 'Comic Neue', cursive;
+}
+
+#athletics{
+    background:lightseagreen;
+    font-family: 'Comic Neue', cursive;
+}
+
+#academics{
+    background:lightblue;
+    font-family: 'Comic Neue', cursive;
+}
+
+#awards{
+    background:orchid;
+    font-family: 'Comic Neue', cursive;
+}
+
+#contact{
+    background:lightpink;
+    font-family: 'Comic Neue', cursive;
+}
+
+.athletics
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.arts
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.academic
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.teams6
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.teams7
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.teams8
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.teams6 i{
+    float:right;
+}
+
+.teams7 i{
+    float:right;
+}
+
+.teams8 i{
+    float:right;
+}
+
+.arts i{
+    float:right;
+}
+
+.athletics i{
+    float:right;
+}
+
+.academics i{
+    float:right;
+}
+
+img{
+    border-radius:20px;
+}
